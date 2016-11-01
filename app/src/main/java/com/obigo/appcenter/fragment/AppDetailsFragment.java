@@ -125,7 +125,6 @@ public class AppDetailsFragment extends Fragment {
         dialog = builder.create();
         dialog.show();
     }
-
     private BroadcastReceiver receiver = new BroadcastReceiver() {
 
         @Override
