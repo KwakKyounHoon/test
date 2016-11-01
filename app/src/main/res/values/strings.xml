@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App Center</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="app_title_new">New Apps</string>
+    <string name="app_title_update">Available Apps</string>
+    <string name="app_title_all">All Apps</string>
+    <string name="app_title_details">App Details</string>
+    <string name="app_title_main"></string>
+</resources>

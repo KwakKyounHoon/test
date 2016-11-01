@@ -1,0 +1,49 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="default_title_text_size">32dp</dimen>
+    <dimen name="default_content_text_size">24dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>]
+
+    <dimen name="main_logo_margin_left">15dp</dimen>
+    <dimen name="main_title_margin_left">20dp</dimen>
+    <dimen name="main_bar_sidegap">15dp</dimen>
+    <dimen name="main_button_height">64dp</dimen>
+    <dimen name="main_button_width">128dp</dimen>
+    <dimen name="main_title_text_size">24sp</dimen>
+
+    <dimen name="main_frag_right_left">60dp</dimen>
+    <dimen name="main_frag_top_bottom">60dp</dimen>
+    <dimen name="main_frag_text_size">32sp</dimen>
+    <dimen name="main_frag_text_margin_top">16dp</dimen>
+
+    <dimen name="app_list_view_logo_magin_top">16dp</dimen>
+    <dimen name="app_list_view_logo_magin_bottom">16dp</dimen>
+    <dimen name="app_list_view_logo_magin_lelt">12dp</dimen>
+    <dimen name="app_list_view_logo_magin_right">12dp</dimen>
+    <dimen name="app_list_view_text_size">24sp</dimen>
+    <dimen name="app_list_view_status_margin_right">24dp</dimen>
+    <dimen name="app_list_view_padding_top">16dp</dimen>
+
+    <dimen name="app_list_view_margin_left">24dp</dimen>
+    <dimen name="app_list_view_margin_right">24dp</dimen>
+    <dimen name="app_list_view_divider_height">16dp</dimen>
+
+    <dimen name="app_details_padding_left">34dp</dimen>
+    <dimen name="app_details_padding_right">34dp</dimen>
+    <dimen name="app_details_padding_top">12dp</dimen>
+    <dimen name="app_details_padding_bottom">12dp</dimen>
+    <dimen name="app_details_left_area_margin_right">16dp</dimen>
+    <dimen name="app_details_right_area_padding_right">16dp</dimen>
+    <dimen name="app_details_right_area_padding_left">16dp</dimen>
+    <dimen name="app_details_right_area_padding_top">9dp</dimen>
+    <dimen name="app_details_right_area_padding_bottom">9dp</dimen>
+    <dimen name="app_details_name_text_size">42sp</dimen>
+    <dimen name="app_details_description_label_text_size">32sp</dimen>
+    <dimen name="app_details_description_text_size">24sp</dimen>
+    <dimen name="app_details_text_gab">12dp</dimen>
+    <dimen name="app_details_btn_text_size">26sp</dimen>
+
+    <dimen name="download_frag_width">300dp</dimen>
+</resources>
